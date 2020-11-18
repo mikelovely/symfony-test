@@ -1,0 +1,9 @@
+/vendor/
+/coverage/
+.idea/
+.DS_Store
+/ops/docker/app.tar.gz
+/bin
+/config.json
+*.conf
+/ops/jenkins/poeditor-config.json

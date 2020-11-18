@@ -1,0 +1,10 @@
+{
+    "name": "mikelovely/php-playground",
+    "authors": [
+        {
+            "name": "Mike Lovely",
+            "email": "mikelovelyuk@gmail.com"
+        }
+    ],
+    "require": {}
+}
